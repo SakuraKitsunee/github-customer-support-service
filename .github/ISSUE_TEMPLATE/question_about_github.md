@@ -1,7 +1,9 @@
 ---
-name: Question about GitHub
-about: Put your question about github here.
-
+name: Inquire
+about: Ask a question relating to this repository
+title: "Question"
+labels: question
+assignees: ''
 
 ---
 
