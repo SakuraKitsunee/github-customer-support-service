@@ -1,6 +1,6 @@
 ---
-name:Question about GitHub
-about:put your question about github here.
+name: Question about GitHub
+about: Put your question about github here.
 
 
 ---
